@@ -6,7 +6,7 @@
     "url": "https://github.com/amaneku/prettier-config/issues"
   },
   "devDependencies": {
-    "prettier": "1.13.3"
+    "prettier": "1.13.4"
   },
   "homepage": "https://github.com/amaneku/prettier-config#readme",
   "keywords": [
