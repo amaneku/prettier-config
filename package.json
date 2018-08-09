@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@amaneku/renovate-config": "1.0.1",
-    "prettier": "1.14.1"
+    "prettier": "1.14.2"
   },
   "files": [],
   "homepage": "https://github.com/amaneku/prettier-config#readme",
