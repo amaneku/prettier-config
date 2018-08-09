@@ -9,6 +9,7 @@
     "@amaneku/renovate-config": "1.0.0",
     "prettier": "1.14.1"
   },
+  "files": [],
   "homepage": "https://github.com/amaneku/prettier-config#readme",
   "keywords": [
     "config",
