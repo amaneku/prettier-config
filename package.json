@@ -1,21 +1,17 @@
 {
   "name": "@amaneku/prettier-config",
-  "description": "Prettier config",
   "version": "1.2.0",
-  "bugs": {
-    "url": "https://github.com/amaneku/prettier-config/issues"
-  },
-  "devDependencies": {
-    "@amaneku/renovate-config": "1.0.1",
-    "prettier": "1.14.2"
-  },
-  "files": [],
-  "homepage": "https://github.com/amaneku/prettier-config#readme",
+  "description": "Prettier config",
   "keywords": [
     "config",
     "prettier"
   ],
+  "homepage": "https://github.com/amaneku/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/amaneku/prettier-config/issues"
+  },
   "license": "MIT",
+  "files": [],
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -24,5 +20,9 @@
   "scripts": {
     "fmt": "prettier --write index.js",
     "test": "npm run fmt"
+  },
+  "devDependencies": {
+    "@amaneku/renovate-config": "1.0.1",
+    "prettier": "1.14.2"
   }
 }
