@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "@amaneku/renovate-config": "1.0.1",
-    "prettier": "1.15.2"
+    "prettier": "1.15.3"
   }
 }
