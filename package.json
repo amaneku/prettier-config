@@ -22,7 +22,7 @@
     "test": "npm run fmt"
   },
   "devDependencies": {
-    "@amaneku/renovate-config": "1.0.1",
+    "@amaneku/renovate-config": "1.1.0",
     "prettier": "1.15.3"
   }
 }
