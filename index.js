@@ -1,6 +1,6 @@
 module.exports = {
-  htmlWhitespaceSensitivity: 'strict',
   printWidth: 120,
+  semi: false,
   singleQuote: true,
-  trailingComma: 'none'
-};
+  htmlWhitespaceSensitivity: 'strict',
+}
